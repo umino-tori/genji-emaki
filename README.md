@@ -80,10 +80,10 @@ pip install -r requirements.txt
 gemini-embedding-001
 gemini-2.5-flash-lite
 
-😊カスタムLLMにつて
-なお、ほかにローカルLLMとしてGoogle Colab上で動作するQwen/Qwen2.5-7B-Instruct-GGUFを使用することも可能です。
-ローカルLLMの設定は、src/app.pyの「CUSTOM_API_BASE_URL」を設定してください。
-「CUSTOM_API_BASE_URL」は、https://github.com/umino-tori/genji-emaki_google-colab/server_local_llm.ipynbで取得した「🚀 URL:https://xxxxxxxxxxxxxxxx..ngrok-free.app」を設定してください。
+😊カスタムLLMにつて  
+他にローカルLLMとしてGoogle Colab上で動作するQwen/Qwen2.5-7B-Instruct-GGUFを使用することも可能です。
+・ローカルLLMの設定は、src/app.pyの「CUSTOM_API_BASE_URL」を設定してください。
+・「CUSTOM_API_BASE_URL」は、https://github.com/umino-tori/genji-emaki_google-colab/server_local_llm.ipynbで取得した「🚀 URL:https://xxxxxxxxxxxxxxxx..ngrok-free.app」を設定してください。
 
 ### ベクトルDBの構築
 
