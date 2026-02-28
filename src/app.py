@@ -23,7 +23,7 @@ LLM_MODEL = "models/gemini-2.5-flash-lite"
 DB_PATH = "./data/chroma_db"
 COLLECTION_NAME = "genji_story"
 LOG_FILE = "app.py.log"
-CUSTOM_API_BASE_URL = "https://5ea6-34-125-70-68.ngrok-free.app"
+CUSTOM_API_BASE_URL = "https://xxxx-xxxxx-xxx-xx-xx.ngrok-free.app" # README.md😊カスタムLLMにつて参照
 
 # --- 帖名 → 読み仮名 対応表（全54帖＋番外） ---
 CHAPTER_READINGS = {

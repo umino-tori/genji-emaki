@@ -213,3 +213,4 @@ app.py.log
 CLAUDE.md
 GEMINI.md
 .gitignore*Zone*
+*.swp
